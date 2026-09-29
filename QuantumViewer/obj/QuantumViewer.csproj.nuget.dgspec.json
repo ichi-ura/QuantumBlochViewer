@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ToshioUramoto\\Desktop\\QuantumN\\QuantumViewer\\QuantumViewer\\QuantumViewer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ToshioUramoto\\Desktop\\QuantumN\\QuantumViewer\\QuantumViewer\\QuantumViewer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ToshioUramoto\\Desktop\\QuantumN\\QuantumViewer\\QuantumViewer\\QuantumViewer.csproj",
+        "projectName": "QuantumViewer",
+        "projectPath": "C:\\Users\\ToshioUramoto\\Desktop\\QuantumN\\QuantumViewer\\QuantumViewer\\QuantumViewer.csproj",
+        "packagesPath": "C:\\Users\\ToshioUramoto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ToshioUramoto\\Desktop\\QuantumN\\QuantumViewer\\QuantumViewer\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "UsingMicrosoftNETSdk": false,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ToshioUramoto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net472": {
+            "framework": "net472",
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "framework": "net472",
+          "dependencies": {
+            "OpenTK": {
+              "target": "Package",
+              "version": "[3.3.3, )"
+            },
+            "OpenTK.GLControl": {
+              "target": "Package",
+              "version": "[3.3.3, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

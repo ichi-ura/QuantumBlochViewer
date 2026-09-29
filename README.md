@@ -18,3 +18,29 @@ Visual Studio 2022 以降で以下を開いてください：
 ## License
 MIT License
 
+---
+
+# QuantumBlochViewer (English)
+
+QuantumBlochViewer is a C# visualization tool for quantum states.
+It displays qubit orientation, rotation, and projection on the Bloch sphere
+as intuitive physical images.
+
+## Features
+- 3D Bloch sphere rendering
+- Qubit orientation vector
+- Projection (shadow) visualization
+- SO(3) rotation engine animation
+- High-speed rendering using GLControl
+
+## How to Build
+Open the following file in Visual Studio 2022 or later:
+
+QuantumViewer.slnx
+
+## Folder Structure
+QuantumViewer/        Project source  
+QuantumViewer.slnx    Solution file
+
+## License
+MIT License
